@@ -63,6 +63,8 @@ At Makers I enjoyed daily paring session and team projects where I always try to
 Also I enjoy organising fun and team building activities such as board game events, escape room runs and improve workshop at my previous job and at Makers.
 
 
+<br>
+<br>
 
 <h2 id="tech">Tech Experience</h2>
 I am confident I can pick up any new language or framework, but here is a taster for what I learned over just 12 weeks at Makers:
@@ -96,6 +98,8 @@ I am confident I can pick up any new language or framework, but here is a taster
 | Deployment    | Heroku                                       |
 
 
+<br>
+<br>
 
 ## Education
 
@@ -123,6 +127,8 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 **Batchelor of Arts in Economics**
 
+<br>
+<br>
 
 
 ## Experience
@@ -142,6 +148,8 @@ I work in a design studio that focused on luxury branding, creating print and br
 **Mikhailov & Partners (Moscow)** (May 2007 to November 2008) – _Graphic Designer_
 
 
+<br>
+<br>
 
 ## Interests
 
