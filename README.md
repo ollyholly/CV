@@ -8,11 +8,17 @@
 **previously:** Web and Graphic Designer with over 10 years of professional experience.
 
 **always:** Highly driven curious individual passionate about science and technology, perpetual learner, passionate about solving problems and making beautiful things. Looking forward to working in a team of like-minded people who build things that progress the humanity & help improve people's lives.
+<br>
+<br>
 
 **My dev toolkit**
 
 🔨Ruby, JavaScript, React, Ruby on Rails, HTML, CSS.
+
 🔧Rspec, Capybara, Jasmine, Jest, Ensyme, Cypress
+
+<br>
+<br>
 
 ## Why choose me?
 
@@ -20,15 +26,18 @@
 
 The main reason why I decided to become a software engineer is my belief that we live in exciting times of extreme scientific and technological revolution driven by coders. And I didn't want to stay on the sidelines. I've very curious and passionate about design, science, technology. And I want to build things that improve people's lives. All that makes me work extra hard, constantly learn and improve my coding skills.
 
-👨‍🎤**Design & creativity**
+
+🎨**Design & creativity**
 
 Working as a graphic and web designer for the last 12 years gave me the chance to develop skills & work on the projects in branding, web & UX design, print design and illustration. Some of the latest web projects I worked on are [https://www.athenajournal.com/](https://www.athenajournal.com/), [https://dev.athenaadvisers.com/](https://dev.athenaadvisers.com/) , \*\*[https://harvestkaplankaya.com/](https://harvestkaplankaya.com/)
 
 My design training has been a valuable asset that I've been able to apply to my coding projects. In addition to web design skills, structural thinking & planning, user-centered mindset and focus on business goals, alteration of divergent and convergent thinking – all that helped me better understand the context of the project and propose solutions that would lead to a better product.
 
+
 👅**Communication**
 
 In my previous roles communication skills where pivotal. A big part of my job was liaising with clients to get the project requirements, conveying the objectives to the team and then presenting design solution to the stakeholders. These skills were further improved during my time at Makers Academy due to emphasis placed on pairing and teamwork.
+
 
 🤓**Fast and independent learning**
 
@@ -36,7 +45,8 @@ While in university getting my first degree in Economics & Finance I was teachin
 
 One of the reason why I decided to become a software engineer is because you have to learn all the time, as technologies are constantly evolving. It's truly exciting.
 
-👯‍♂**Team spirit**
+
+🤝**Team spirit**
 
 I enjoy working in small teams, comfortable in both leadership and "team-player" positions. At my previous role I manage a small team of designers and worked as a part of marketing team.
 
@@ -51,6 +61,8 @@ At Makers I enjoyed daily paring session and team projects where I always try to
 > It was a pleasure pairing with you. I felt I learned a lot. Cheers :)
 
 Also I enjoy organising fun and team building activities such as board game events, escape room runs and improve workshop at my previous job and at Makers.
+
+
 
 <h2 id="tech">Tech Experience</h2>
 I am confident I can pick up any new language or framework, but here is a taster for what I learned over just 12 weeks at Makers:
@@ -83,6 +95,8 @@ I am confident I can pick up any new language or framework, but here is a taster
 | Image Editing | Adobe Illustrator, Adobe Lightroom, Inkscape |
 | Deployment    | Heroku                                       |
 
+
+
 ## Education
 
 ### Makers Academy (Sep 2019 - Dec 2019)
@@ -109,6 +123,8 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 **Batchelor of Arts in Economics**
 
+
+
 ## Experience
 
 **[Athena Advisers](https://www.athenaadvisers.com/)** (April 2014 to September 2019) – _Art Director_
@@ -124,6 +140,8 @@ I work in a design studio that focused on luxury branding, creating print and br
 
 **Freelance** (Moscow, Beijing) – May 2007 to November 2008 – _Graphic Designer_
 **Mikhailov & Partners (Moscow)** (May 2007 to November 2008) – _Graphic Designer_
+
+
 
 ## Interests
 
