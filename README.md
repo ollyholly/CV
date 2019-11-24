@@ -37,31 +37,31 @@
 
 ## Why choose me?
 
-🔥**Drive**
+🔥 **Drive**
 
 The main reason why I decided to become a software engineer is my belief that we live in exciting times of extreme scientific and technological revolution driven by coders. And I didn't want to stay on the sidelines. I've very curious and passionate about design, science, technology. And I want to build things that improve people's lives. All that makes me work extra hard, constantly learn and improve my coding skills.
 
 
-🎨**Design & creativity**
+🎨 **Design & creativity**
 
 Working as a graphic and web designer for the last 12 years gave me the chance to develop skills & work on the projects in branding, web & UX design, print design and illustration. Some of the latest web projects I worked on are [https://www.athenajournal.com/](https://www.athenajournal.com/), [https://dev.athenaadvisers.com/](https://dev.athenaadvisers.com/) , \*\*[https://harvestkaplankaya.com/](https://harvestkaplankaya.com/)
 
 My design training has been a valuable asset that I've been able to apply to my coding projects. In addition to web design skills, structural thinking & planning, user-centered mindset and focus on business goals, alteration of divergent and convergent thinking – all that helped me better understand the context of the project and propose solutions that would lead to a better product.
 
 
-👅**Communication**
+👅 **Communication**
 
 In my previous roles communication skills where pivotal. A big part of my job was liaising with clients to get the project requirements, conveying the objectives to the team and then presenting design solution to the stakeholders. These skills were further improved during my time at Makers Academy due to emphasis placed on pairing and teamwork.
 
 
-🤓**Fast and independent learning**
+🤓 **Fast and independent learning**
 
 While in university getting my first degree in Economics & Finance I was teaching myself marketing and advertising, as that became my passion at the time. After that I transitioned into graphic design, followed by branding and then web and UX design. Learning is my passion and something that brings meaning to my life.
 
 One of the reason why I decided to become a software engineer is because you have to learn all the time, as technologies are constantly evolving. It's truly exciting.
 
 
-🤝**Team spirit**
+🤝 **Team spirit**
 
 I enjoy working in small teams, comfortable in both leadership and "team-player" positions. At my previous role I manage a small team of designers and worked as a part of marketing team.
 
@@ -84,13 +84,13 @@ Also I enjoy organising fun and team building activities such as board game even
 ## Projects
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| Final Project<br>([Github]()) | Description | __Technologies__ List<br>__Testing__ List | 
-| Acebook <br> ([Github](https://github.com/ollyholly/acebook-facebuzz))<br>([Heroku](https://acebook-facebuzz.herokuapp.com)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. | __Technologies__ Ruby on Rails, React, PostgreSQL, Heroku, Travis CI, Bootstrap<br>__Testing__ Rspec, Capybara, Cypress |
-| MakersBnB <br> ([Github](https://github.com/ollyholly/makersBnB))<br>([Heroku](https://github.com/ollyholly/makersBnB)) | Team project of building property booking website. | __Technologies__ Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap<br>__Testing__ Rspec, Capybara |
-| Robot News<br>([Github](https://github.com/ollyholly/news-summary-challenge))<br>([Heroku](https://robot-news.herokuapp.com/)) | Single page website using news API | __Technologies__ React <br> __Testing__ Jest |
-| Rock Paper Scissors vs Scary Monster <br>([Github](https://github.com/ollyholly/rps-challenge))<br>([Heroku](https://rps-and-scary-monster.herokuapp.com)) | My first web app created as part of a weekend challenge at the start of the Makers course. |__Technologies__ Ruby, Sinatra <br>__Testing__ Rspec|
-| Bank tech test<br>([Github](https://github.com/ollyholly/bank-tech-test)) | An exersise in object-oriented programming using Javascript (ES6) and TDD | __Technologies__ Javascript <br>__Testing__ Jest |
-| Gilded Rose Refactoring<br>([Github](https://github.com/ollyholly/GildedRose-Refactoring-in-Ruby)) | An exersise in object-oriented programming with Ruby & TDD. | __Technologies__ Ruby <br>__Testing__ Rspec |
+| Final Project<br>([Github]()) | Description |  List<br>__Testing__ List | 
+| Acebook <br> ([Github](https://github.com/ollyholly/acebook-facebuzz))<br>([Heroku](https://acebook-facebuzz.herokuapp.com)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. |  Ruby on Rails, React, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara, Cypress |
+| MakersBnB <br> ([Github](https://github.com/ollyholly/makersBnB))<br>([Heroku](https://github.com/ollyholly/makersBnB)) | Team project of building property booking website. |  Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap<br>Testing: Rspec, Capybara |
+| Robot News<br>([Github](https://github.com/ollyholly/news-summary-challenge))<br>([Heroku](https://robot-news.herokuapp.com/)) | Single page website using news API | React <br> Testing: Jest |
+| Rock Paper Scissors vs Scary Monster <br>([Github](https://github.com/ollyholly/rps-challenge))<br>([Heroku](https://rps-and-scary-monster.herokuapp.com)) | My first web app created as part of a weekend challenge at the start of the Makers course. | Ruby, Sinatra <br>Testing: Rspec|
+| Bank tech test<br>([Github](https://github.com/ollyholly/bank-tech-test)) | An exersise in object-oriented programming using Javascript (ES6) and TDD | Javascript <br>Testing: Jest |
+| Gilded Rose Refactoring<br>([Github](https://github.com/ollyholly/GildedRose-Refactoring-in-Ruby)) | An exersise in object-oriented programming with Ruby & TDD. | Ruby <br>Testing: Rspec |
 
 <br>
 <br>
@@ -99,14 +99,15 @@ Also I enjoy organising fun and team building activities such as board game even
 
 ### Makers Academy (Sep 2019 - Dec 2019)
 
-* __Tech Skills:__
+__Tech Skills:__
 – OOP, TDD, SOLID, MVC, DDD
 - JavaScript, React
 - Ruby, Sinatra, Ruby on Rails
 - RSpec, Jasmine, Jest, Cypress
 - SQL, PostgreSQL
 - Git, Github
-* __Behavioural Skills:__ Agile, XP (extreme programming) values, MVP, Pair Programming, Mobbing, Growth mindset
+__Behavioural Skills:__ 
+– Agile, XP (extreme programming) values, MVP, Pair Programming, Mobbing, Growth mindset
 
 ### British Higher School of Art and Design in Moscow (Jan 2008 - Jul 2009)
 
@@ -159,6 +160,8 @@ I work in a design studio that focused on luxury branding, creating print and br
 ㊗ ️Languages – besides native Russian, Ukrainian, & fluent English, I can speak, read and write in Mandarin Chinese & French. I also studied some Spanish and Portuguese.
 
 🌏 Traveling & living in new countries – I lived 4 years in China, 2 years in Russia, 1.5 years in USA.
+
+
 
 #### Codewars
 
