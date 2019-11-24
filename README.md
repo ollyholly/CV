@@ -126,19 +126,21 @@ Also I enjoy organising fun and team building activities such as board game even
 
 ## Experience
 
-**[Athena Advisers](https://www.athenaadvisers.com/)** (April 2014 to September 2019) – _Art Director_
+**[Athena Advisers](https://www.athenaadvisers.com/)** – April 2014 to September 2019 – _Art Director_
 
 I managed a small team of 3 designers working as part of marketing and communications team of Athena Group. We were responsible for production of marketing and sales materials for the brands of the group (Athena Advisers, Athena Private Finance, Athena Collection), as well as creative branding projects for the clients. The projects included corporate identity, brochure and presentation design, email campaigns, digital and print advertising, web design, motion design.
 
-**[Hatchers Creative (Beijing, Moscow)](http://hatcherscreative.com/)** (May 2011 to April 2014) – _Brand and Web designer_
+**[Hatchers Creative](http://hatcherscreative.com/)**(Beijing, Moscow) – May 2011 to April 2014 – _Brand and Web designer_
 
 I ran a small design studio, working side by side with web developer, creating websites (mostly in Wordpress) and visual identity for small and medium businesses.
 
-**Carr3ra (Beijing)** (March 2010 to May 2011) – _Art Director_
+**Carr3ra (Beijing)** – March 2010 to May 2011 – _Art Director_
+
 I work in a design studio that focused on luxury branding, creating print and branding materials for Hilton, Westin, Marriot, Shangri-La in Beijing
 
 **Freelance** (Moscow, Beijing) – May 2007 to November 2008 – _Graphic Designer_
-**Mikhailov & Partners (Moscow)** (May 2007 to November 2008) – _Graphic Designer_
+
+**Mikhailov & Partners** (Moscow) – May 2007 to November 2008 – _Graphic Designer_
 
 
 <br>
@@ -147,10 +149,15 @@ I work in a design studio that focused on luxury branding, creating print and br
 ## Interests
 
 🎨 Drawing and painting, mostly [cute and weird creatures](https://www.instagram.com/ollyholly_art/)
+
 🤖 Science & technology – at the moment I'm following Neurolink, SpaceX, quantum computing, AI
+
 🎲 Board games, especially eurogames like Terraforming Mars
+
 🧘‍♂️ Self-improvement & new experiences – I love trying new fitness routines, diets, meditation practices
+
 ㊗ ️Languages – besides native Russian, Ukrainian, & fluent English, I can speak, read and write in Mandarin Chinese & French. I also studied some Spanish and Portuguese.
+
 🌏 Traveling & living in new countries – I lived 4 years in China, 2 years in Russia, 1.5 years in USA.
 
 #### Codewars
