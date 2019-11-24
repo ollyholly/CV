@@ -1,7 +1,22 @@
-# Olly Holovchenko
 
+
+<h1 align="center">Olly Holovchenko</h1>
+<p align="center">
 <a  href="https://www.linkedin.com/in/ollyholovchenko/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a  href="https://github.com/ollyholly"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+
+<div align="center">
+
+[Summary](#summary) |
+[Why choose me?](#why-choose-me) |
+[Projects](#projects) |
+[Experience](#experience) |
+[Education](#education) |
+[Interests](#interests)
+
+</div>
+
+## Summary
 
 **currently:** Full-Stack Software Engineer, Makers Academy graduate.
 
@@ -66,37 +81,16 @@ Also I enjoy organising fun and team building activities such as board game even
 <br>
 <br>
 
-<h2 id="tech">Tech Experience</h2>
-I am confident I can pick up any new language or framework, but here is a taster for what I learned over just 12 weeks at Makers:
-
-#### Javascript
-
-| Tech            | Projects                                    |
-| --------------- | ------------------------------------------- |
-| React           | [Project Name](link), [Project Name](link)  |
-| React-Native    | [[Project Name](link), [Project Name](link) |
-| Pure Javascript | [Project Name](link), [Project Name](link)  |
-| jQuery          | [Project Name](link), [Project Name](link)  |
-| Jest            | [Project Name](link), [Project Name](link)  |
-| Jasmine         | [Project Name](link), [Project Name](link)  |
-
-#### Ruby
-
-| Tech    | Projects                                                                                |
-| ------- | --------------------------------------------------------------------------------------- |
-| Rails   | [Project Name](link), [Project Name](link), [Project Name](link), [Project Name](link)  |
-| Sinatra | [Project Name](link), [Project Name](link)                                              |
-| RSpec   | [Project Name](link), [Project Name](link), [[Project Name](link), [Project Name](link) |
-
-#### Other
-
-| Tech          | Projects                                     |
-| ------------- | -------------------------------------------- |
-| SQL databases | PostgreSQL, ActiveRecord                     |
-| CSS           | Bootstrap, Material UI, Materialize CSS      |
-| Image Editing | Adobe Illustrator, Adobe Lightroom, Inkscape |
-| Deployment    | Heroku                                       |
-
+## Projects
+| Project       | Summary       | Technologies  |
+| ------------- |---------------| --------------|
+| Final Project<br>([Github]()) | Description | __Technologies__ List<br>__Testing__ List | 
+| Acebook <br> ([Github](https://github.com/ollyholly/acebook-facebuzz))<br>([Heroku](https://acebook-facebuzz.herokuapp.com)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. | __Technologies__ Ruby on Rails, React, PostgreSQL, Heroku, Travis CI, Bootstrap<br>__Testing__ Rspec, Capybara, Cypress |
+| MakersBnB <br> ([Github](https://github.com/ollyholly/makersBnB))<br>([Heroku](https://github.com/ollyholly/makersBnB)) | Team project of building property booking website. | __Technologies__ Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap<br>__Testing__ Rspec, Capybara |
+| Robot News<br>([Github](https://github.com/ollyholly/news-summary-challenge))<br>([Heroku](https://robot-news.herokuapp.com/)) | Single page website using news API | __Technologies__ React <br> __Testing__ Jest |
+| Rock Paper Scissors vs Scary Monster <br>([Github](https://github.com/ollyholly/rps-challenge))<br>([Heroku](https://rps-and-scary-monster.herokuapp.com)) | My first web app created as part of a weekend challenge at the start of the Makers course. |__Technologies__ Ruby, Sinatra <br>__Testing__ Rspec|
+| Bank tech test<br>([Github](https://github.com/ollyholly/bank-tech-test)) | An exersise in object-oriented programming using Javascript (ES6) and TDD | __Technologies__ Javascript <br>__Testing__ Jest |
+| Gilded Rose Refactoring<br>([Github](https://github.com/ollyholly/GildedRose-Refactoring-in-Ruby)) | An exersise in object-oriented programming with Ruby & TDD. | __Technologies__ Ruby <br>__Testing__ Rspec |
 
 <br>
 <br>
@@ -105,15 +99,14 @@ I am confident I can pick up any new language or framework, but here is a taster
 
 ### Makers Academy (Sep 2019 - Dec 2019)
 
-- OOP, TDD, SOLID, MVC, DDD
-- Agile, XP (extreme programming) values, MVP
-- Pair Programming, Mobbing
-- Growth mindset
-- Ruby, Sinatra, Ruby on Rails
+* __Tech Skills:__
+– OOP, TDD, SOLID, MVC, DDD
 - JavaScript, React
+- Ruby, Sinatra, Ruby on Rails
 - RSpec, Jasmine, Jest, Cypress
 - SQL, PostgreSQL
 - Git, Github
+* __Behavioural Skills:__ Agile, XP (extreme programming) values, MVP, Pair Programming, Mobbing, Growth mindset
 
 ### British Higher School of Art and Design in Moscow (Jan 2008 - Jul 2009)
 
@@ -160,7 +153,7 @@ I work in a design studio that focused on luxury branding, creating print and br
 ㊗ ️Languages – besides native Russian, Ukrainian, & fluent English, I can speak, read and write in Mandarin Chinese & French. I also studied some Spanish and Portuguese.
 🌏 Traveling & living in new countries – I lived 4 years in China, 2 years in Russia, 1.5 years in USA.
 
-## Codewars
+#### Codewars
 
 [Olly's Profile](https://www.codewars.com/users/Olly%20Holly)<br/>
 ![Codewars Rank](https://www.codewars.com/users/Olly%20Holly/badges/large)
