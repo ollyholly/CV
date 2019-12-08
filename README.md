@@ -84,7 +84,7 @@ Also I enjoy organising fun and team building activities such as board game even
 ## Projects
 | Project       | Summary       | Technologies  |
 | ------------- |---------------| --------------|
-| Final Project<br>([Github]()) | Description |  List<br>__Testing__ List | 
+| Travelist<br>([Github](https://github.com/ollyholly/travelist))<br>([Heroku](http://travelistmakers.herokuapp.com/))| Final team project of building a smart travel packing list app that analises the trip details and generates a packing list based on the weather conditions and activities |  Node JS/ExpressJS, React, MongoDB<br>__Testing__ Jest, Cypress | 
 | Acebook <br> ([Github](https://github.com/ollyholly/acebook-facebuzz))<br>([Heroku](https://acebook-facebuzz.herokuapp.com)) | Team project of building Facebook inspired social media website while focusing on agile practices and TDD. |  Ruby on Rails, React, PostgreSQL, Heroku, Travis CI, Bootstrap<br>Testing: Rspec, Capybara, Cypress |
 | MakersBnB <br> ([Github](https://github.com/ollyholly/makersBnB))<br>([Heroku](https://github.com/ollyholly/makersBnB)) | Team project of building property booking website. |  Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap<br>Testing: Rspec, Capybara |
 | Robot News<br>([Github](https://github.com/ollyholly/news-summary-challenge))<br>([Heroku](https://robot-news.herokuapp.com/)) | Single page website using news API | React <br> Testing: Jest |
