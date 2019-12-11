@@ -28,7 +28,7 @@
 
 **My dev toolkit**
 
-🔨Ruby, JavaScript, React, Ruby on Rails, HTML, CSS.
+🔨Ruby, JavaScript, React, NodeJS, Ruby on Rails, HTML, CSS.
 
 🔧Rspec, Capybara, Jasmine, Jest, Ensyme, Cypress
 
@@ -101,10 +101,10 @@ Also I enjoy organising fun and team building activities such as board game even
 
 __Tech Skills:__
 – OOP, TDD, SOLID, MVC, DDD
-- JavaScript, React
+- JavaScript, React, NodeJS, ExpressJS
 - Ruby, Sinatra, Ruby on Rails
 - RSpec, Jasmine, Jest, Cypress
-- SQL, PostgreSQL
+- SQL, PostgreSQL, MongoDB
 - Git, Github
 __Behavioural Skills:__ 
 – Agile, XP (extreme programming) values, MVP, Pair Programming, Mobbing, Growth mindset
