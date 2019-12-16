@@ -44,7 +44,7 @@ The main reason why I decided to become a software engineer is my belief that we
 
 🎨 **Design & creativity**
 
-Working as a graphic and web designer for the last 12 years gave me the chance to develop skills & work on the projects in branding, web & UX design, print design and illustration. Some of the latest web projects I worked on are [https://www.athenajournal.com/](https://www.athenajournal.com/), [https://dev.athenaadvisers.com/](https://dev.athenaadvisers.com/) , \*\*[https://harvestkaplankaya.com/](https://harvestkaplankaya.com/)
+Working as a graphic and web designer for the last 12 years gave me the chance to develop skills & work on the projects in branding, web & UX design, print design and illustration. Some of the latest web projects I worked on are [https://www.athenajournal.com/](https://www.athenajournal.com/), [https://dev.athenaadvisers.com/](https://dev.athenaadvisers.com/), [https://harvestkaplankaya.com/](https://harvestkaplankaya.com/)
 
 My design training has been a valuable asset that I've been able to apply to my coding projects. In addition to web design skills, structural thinking & planning, user-centered mindset and focus on business goals, alteration of divergent and convergent thinking – all that helped me better understand the context of the project and propose solutions that would lead to a better product.
 
@@ -165,5 +165,4 @@ I work in a design studio that focused on luxury branding, creating print and br
 
 #### Codewars
 
-[Olly's Profile](https://www.codewars.com/users/Olly%20Holly)<br/>
 ![Codewars Rank](https://www.codewars.com/users/Olly%20Holly/badges/large)
